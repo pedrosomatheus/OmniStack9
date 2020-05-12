@@ -81,3 +81,7 @@ body, input, button{
   color: #fff;
   cursor: pointer;
 }
+
+.content button.btn:hover{
+  background: #f05a5af1;
+}
